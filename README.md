@@ -1,4 +1,6 @@
-# HTML5 CSS Reset
+# ![736 reset5](logo.png){height=250px}
+### HTML5 CSS Reset
+![NPM Version](https://img.shields.io/npm/v/736-reset5)
 
 **reset5** is a new CSS reset for HTML5, based on Eric Meyer's CSS Reset and html5doctor.com's HTML5 reset.
 
@@ -20,10 +22,10 @@ For uncompressed source, clone our hg repository or go to http://reset5.googleco
 
 ### THE UPPER SECTION OF THIS README.MD INFO IS MORE THAN 10-YEARS OLD.
 
-The **reset5** project is no longer actively maintained, and the original repository at Google Code may not be available. The company that originally wrote it, **736 Computing Services Limited**, might not even be around anymore.
+The **reset5** project is no longer actively maintained, and the original repository at Google Code may not be available. The company that originally wrote it, **736 Computing Services Limited**, apparently is not around anymore.
 
 Consider using modern CSS resets or frameworks instead. This is made available for reference use, and because many old templates use it, and it might be useful to preserve it.
 
 **_I claim no ownership or authorship of this code, neither I'm going to maintain it._** 
 
-This is just a copy of the original code from the reset5 project, which was hosted on Google Code, and remained useful during many years.
+This is just a copy of the original code from the reset5 project, which was hosted on Google Code (https://code.google.com/archive/p/reset5/), and remained useful during many years.
