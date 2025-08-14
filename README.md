@@ -1,5 +1,5 @@
-# ![736 reset5](logo.png)
-### HTML5 CSS Reset
+![736 reset5](logo.png)
+## HTML5 CSS Reset
 ![NPM Version](https://img.shields.io/npm/v/736-reset5)
 
 **reset5** is a new CSS reset for HTML5, based on Eric Meyer's CSS Reset and html5doctor.com's HTML5 reset.
