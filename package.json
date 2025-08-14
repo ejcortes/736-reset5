@@ -1,0 +1,23 @@
+{
+  "name": "736-reset5",
+  "version": "1.0.0",
+  "description": "reset5 is a new CSS reset for HTML5, based on Eric Meyer's CSS Reset and html5doctor.com's HTML5 reset.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ejcortes/736-reset5.git"
+  },
+  "keywords": [
+    "reset",
+    "css",
+    "html5"
+  ],
+  "author": "736 Computing Services Limited",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://code.google.com/archive/p/reset5/issues"
+  },
+  "homepage": "https://code.google.com/archive/p/reset5/"
+}
