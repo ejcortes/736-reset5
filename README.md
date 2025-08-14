@@ -1,4 +1,4 @@
-# ![736 reset5](logo.png){height=250px}
+# ![736 reset5](logo.png)
 ### HTML5 CSS Reset
 ![NPM Version](https://img.shields.io/npm/v/736-reset5)
 
